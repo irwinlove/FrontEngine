@@ -5,7 +5,7 @@ import com.irwin.engine.modbus.entity.exception.ModbusTransportException;
 /*
  * @Author irwin
  * @CreateAt 2020/1/2 9:47
- * @Description: modbus驱动基类
+ * @Description: modbus基类
  * @Since version-1.0
  */
 public class Modbus {
